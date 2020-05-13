@@ -1,0 +1,1 @@
+a pasta dist contem o projeto final criado atraves do webpack
